@@ -1,3 +1,3 @@
-<h1> Custom User mode </h1>
+<h1> Custom User model </h1>
 
-this is custom user model in django with email
+This is custom user model in django with email
